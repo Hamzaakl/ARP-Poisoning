@@ -28,7 +28,7 @@ Scapy kütüphanesini kullanarak bir **ARP Spoofing** (ARP Poisoning) saldırıs
 ## Kullanım
 
 ```bash
-sudo python3 script_adı.py
+sudo python3 ARP-Poisoning.py
 ```
 
 **Uyarı:** Bu script, yalnızca eğitim ve güvenlik testi amacıyla kullanılmalıdır..
